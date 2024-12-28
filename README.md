@@ -45,17 +45,11 @@ npm install
 
 # Usage
 Start the server (Backend)
-From the backend directory, run the following command to start the server:
-
-
 npm start
-The server will now be running on http://localhost:5000.
-
 Start the React app (Frontend)
 Open a new terminal window and navigate to the frontend directory. Then run:
 
 npm start
-This will start the React development server on http://localhost:3000.
 
 You should now be able to visit http://localhost:3000 in your browser and use the chat application.
 
@@ -113,7 +107,7 @@ Open a Pull Request to merge your changes into the main repository.
 Socket.io for enabling real-time communication in the app.
 React and ReactDOM for building the interactive frontend.
 Contact
-If you have any questions or suggestions, feel free to open an issue or contact me at your-email@example.com.
+If you have any questions or suggestions, feel free to open an issue or contact me.
 
 Enjoy chatting! 😊
 
