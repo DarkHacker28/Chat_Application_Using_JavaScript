@@ -12,7 +12,6 @@ A real-time chat application built with **Node.js**, **React**, **ReactDOM**, an
 - [Technologies Used](#technologies-used)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
